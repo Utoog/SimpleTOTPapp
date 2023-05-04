@@ -1,6 +1,7 @@
 # Simple TOTP App
 
 I was tired of using my phone for 2FA so as c++ practice and solve for my problem i created this.
+Oh and also i use CryproPP library https://github.com/weidai11/cryptopp
 
 ## It doesn't work yet
 
